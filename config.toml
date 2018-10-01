@@ -13,16 +13,13 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "Chris Clarkson" # Author's name.
-    info = "Platform Security and Hardware Hacker" # Author's job title or info.
+    info = "Cloud Platform Security and Hardware Hacker" # Author's job title or info.
     description = "Chris Clarkson's personal website" # Site description.
     keywords = "blog,developer,personal,hacker,electronics,platform,AWS,Azure" # Site keywords.
     avatarurl = "images/chrisclarkson.jpg" # Contain the path of the optionnal avatar in the static folder.
 
-    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
-
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
 
     # Custom CSS
@@ -72,3 +69,7 @@ pygmentsUseClasses = true # new add
     name = "Projects"
     weight = 4
     url = "projects"
+[[menu.main]]
+    name = "Resources"
+    weight = 5
+    url = "resources"
