@@ -5,13 +5,11 @@ thumbnail = "images/tn.png"
 description = "Courses, Books or Materials currently being studied"
 +++
 
----------------------------
-
 Here is a list of the materials I have or am studying.
 
 ---------------------------
 
-### Course
+### Courses
 
 * [Penetration Testing With Kali](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) (In Progress)
     * The precursor course to the [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) examination. Its very difficult to put into words how much I have learned from this course so far, and there is always more to learn **#TryHarder**.
@@ -21,6 +19,10 @@ Here is a list of the materials I have or am studying.
     * A very insightful course into art of computer forensics and the techniques that are used to catch hackers. Very interesting to take the knowledge gained here and work out ways to evade them, excellent course to take that stage further and develop the adversarial mindset.
 * [CISSP](https://www.isc2.org/Certifications/CISSP) (Completed)
     * The Gold standard for information security professionals, I would advise anybody working in IT Security to do this course. Its benefit lies in understanding, as a techie I gained a deeper understanding and appreciation of how the Policy and process side of Security works.
+* [AWS Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) (Completed)
+    * Excellent course to learn the intricacies of AWS and round out the knowledge gained on the Job.
+* [AWS Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/) (Completed)
+    * Obtained a much deeper understanding of AWS and especially its capabilities and limitations with respect to securing cloud workloads
 
 ### Sites
 
