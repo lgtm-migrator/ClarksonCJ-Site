@@ -22,4 +22,7 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
-
+# Commit and Push changes to gitmodule
+git add .
+git commit -m "Updated after deployment"
+git push origin master
