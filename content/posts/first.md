@@ -1,0 +1,21 @@
++++ 
+date = 2018-10-01T16:52:09+01:00
+title = "Relaunch"
+slug = "first"
+tags = ["beginning"]
+categories = ["posts"]
+thumbnail = "images/tn.png"
+description = "First post to the new site"
++++
+
+And so, With the help of [Hugo](https://gohugo.io) the site has been relaunched.
+
+Look out for posts on:
+
+* Hacking
+* Reverse Engineering
+* Electronics
+* Coding
+* The Cloud
+
+There will also be the odd post about Climbing, Motorcycles and *other goings on* too
