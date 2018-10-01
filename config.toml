@@ -64,3 +64,11 @@ pygmentsUseClasses = true # new add
     name = "About"
     weight = 2
     url = "about"
+[[menu.main]]
+    name = "My Study"
+    weight = 3
+    url = "study"
+[[menu.main]]
+    name = "Projects"
+    weight = 4
+    url = "projects"
