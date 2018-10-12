@@ -76,5 +76,11 @@ OS and Service detection performed. Please report any incorrect results at https
 # Nmap done at Fri Oct 12 13:26:42 2018 -- 1 IP address (1 host up) scanned in 11.49 seconds
 ```
 
+*Sidebar: All those nfs and mount services via rpc sure looked tasty, I figured I could use nfspy and nfspysh to get into one of the users home folders and add some ssh keys for a foot hold. After an hour, I had gotten the keys on the box, chmod'd and chown'd into the right shape. No joy was to be found in a SSH session as the exposed user. One to revist later maybe*
 
 ## Fire
+
+I re-read the brief on VulnHub about this box and noticed on the second reading that it gives you some starter creds, its worth noting at this point I had missed these entirely and made a tragic mistake of going off brief. **There is a lesson here, read and re-read your scoping brief, it will save a lot of time, effort and an ear chewing from the client when you submit a report on something out of scope.**
+
+With creds in hand I ssh'd to Lin.Security as Bob. 
+
