@@ -13,9 +13,10 @@ And so, With the help of [Hugo](https://gohugo.io) the site has been relaunched.
 Look out for posts on:
 
 * Hacking
-* Reverse Engineering
-* Electronics
-* Coding
 * The Cloud
+* Reverse Engineering
+* Coding
+* Hardware
+* Drones
 
 There will also be the odd post about Climbing, Motorcycles and *other goings on* too

@@ -1,30 +1,31 @@
 +++
-title = "About Chris"
+title = "About Me"
 slug = "about"
 thumbnail = "images/tn.png"
-description = "About Chris Clarkson"
+description = "Chris Clarkson: Hacker, Developer and Crasher of Drones"
 +++
 
 ---------------------------
-Identifies as Developer, Hacker, and Geek. Has a passion for all things tech especially if it is Cyber Security related.
+Hi, I'm Chris. I am a Hacker, Developer and Geek. I have a passion for all things Cyber Security, but my main areas of focus are in Hardware "hacking" (making and breaking) and the Cloud. You can never know everything, but knowledge is power; so I always strive to learn something new as often as family, work and life allow.
 
-Loves Science Fiction and Fantasy. Favourite books are the Lord of the Rings and books from the Warhammer 40k Universe. Prefers TV Series to Films, Game of Thrones, Walking Dead, Stargate etc. but does enjoy films from the MCU and Star Wars.
-
-Also a keen motorcyclist and boulderer when not chasing around after 2 kids and my darling wife.
+I am also a motorcyclist and boulderer when not chasing around after 2 kids and my darling wife. Recently, I have taken the first steps in getting out and about with FPV Drones, not for racing but freestyle; in particular the camera footage you can get with them while pulling some insane stunts. One day I would love to have the abilities with a drone that people like [JohnnyFPV](https://www.youtube.com/channel/UC7O8KgJdsE_e9op3vG-p2dg) have.
 
 ---------------------------
 
 ## InfoBytes
 
-Some fun facts about Chris:
+Some facts about Chris:
 
 * Contract IT Consultant based in North of England
 * Loves all things Cyber Security (Seriously, he doesnt shut up about it - The Wife!).
-* From Rotherham, UK.
+* Beginner freestyle FPV Drone pilot
+* From West Yorkshire, UK.
 * Married for 7 years.
 * 2 Kids and a Dog too.
 * Crossed the IT-verse in my career so far, from SysAdmin, Development, Platform, DevOps, and finally into Security.
-* Rides Ninja 600 but really wants a Harley.
+* Loves Sci-Fi and Fantasy (TV, Film and Books) - WH40K, MCU, LoTR
+* Eclectic music tastes
+* Rides a Kawasaki Ninja 600 but really wants a Harley.
 
 
 Have questions? Feel free to [ask me on Twitter](https://twitter.com/ClarksonCJ).

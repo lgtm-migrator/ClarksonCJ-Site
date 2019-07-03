@@ -13,9 +13,9 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     author = "Chris Clarkson" # Author's name.
-    info = "Cloud Platform Security and Hardware Hacker" # Author's job title or info.
+    info = "Cloud Security Consultant and Hacker" # Author's job title or info.
     description = "Chris Clarkson's personal website" # Site description.
-    keywords = "blog,developer,personal,hacker,electronics,platform,AWS,Azure" # Site keywords.
+    keywords = "blog,developer,personal,hacker,electronics,cloud,AWS,Azure,Drone,FPV" # Site keywords.
     avatarurl = "images/chrisclarkson.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     # Whether you want to hide copyright and credits in the footer.
