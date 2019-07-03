@@ -58,22 +58,22 @@ pygmentsUseClasses = true # new add
     weight = 1
     url  = "posts"
 [[menu.main]]
-    name = "About"
+    name = "Personal"
     weight = 2
-    url = "about"
+    url = "personal"
 [[menu.main]]
     name = "Study"
     weight = 3
     url = "study"
 [[menu.main]]
-    name = "Projects"
+    name = "Tutorials"
     weight = 4
+    url = "tutorials"
+[[menu.main]]
+    name = "Projects"
+    weight = 5
     url = "projects"
 [[menu.main]]
     name = "Hobbies"
-    weight = 5
-    url = "hobbies"
-[[menu.main]]
-    name = "Resources"
     weight = 6
-    url = "resources"
+    url = "hobbies"
