@@ -3,8 +3,7 @@
   <ul>
     {{ range .Paginator.Pages }}
     <li>
-      <img src='{{ .Params.thumbnail }}' height=16 width=16 /><span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .URL }}">{{ .Title }}</a>
-      <span></span>{{ .Description }}<span></span>
+    {{ if isset .Params "date" }}<span>{{ .Date.Format "January 2, 2006" }}</span>{{ end }}<a href="{{ .URL }}">{{ .Title }}</a> - {{ .Description }}
     </li>
     {{ end }}
   </ul>
