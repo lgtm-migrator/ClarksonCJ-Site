@@ -5,6 +5,6 @@ title = ""
 slug = ""
 tags = []
 categories = ["posts"]
-thumbnail = "images/tn.png"
+thumbnail = "images/logo.jpg"
 description = ""
 +++

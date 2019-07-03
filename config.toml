@@ -33,7 +33,7 @@ pygmentsUseClasses = true # new add
 
     snsShare = true # new add
 
-    thumbnail = "images/tn.png" # default sns thumbnail
+    thumbnail = "images/logo.jpg" # default sns thumbnail
 
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.

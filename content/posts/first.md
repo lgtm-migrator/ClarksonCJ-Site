@@ -4,7 +4,7 @@ title = "Relaunch"
 slug = "first"
 tags = ["beginning"]
 categories = ["posts"]
-thumbnail = "images/tn.png"
+thumbnail = "images/logo.jpg"
 description = "First post to the new site"
 +++
 
