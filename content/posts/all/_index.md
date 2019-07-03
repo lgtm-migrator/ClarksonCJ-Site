@@ -2,9 +2,9 @@
 draft = true
 date = 2018-10-01T16:52:02+01:00
 title = ""
-slug = "" 
+slug = ""
 tags = []
-categories = []
+categories = ["posts"]
 thumbnail = "images/tn.png"
 description = ""
 +++
