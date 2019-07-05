@@ -1,6 +1,7 @@
 ---
 title: "Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation"
 description: "Advanced topics in the realms of Reverse engineering"
+date: "2019-07-05T09:10:00+01:00"
 ---
 
 Advanced reversed engineering topics.

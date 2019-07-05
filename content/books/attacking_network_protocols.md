@@ -1,6 +1,8 @@
 ---
 title: "Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation"
 description: "Reverse engineering and hacking network protocols"
+date: "2019-07-05T09:00:00+01:00"
+
 ---
 
 Deep Dive into the process of attacking a network communications protocol.

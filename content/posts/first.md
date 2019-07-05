@@ -6,6 +6,7 @@ tags = ["beginning"]
 categories = ["posts"]
 thumbnail = "images/logo.jpg"
 description = "First post to the new site"
+showDate = "true"
 +++
 
 And so, With the help of [Hugo](https://gohugo.io) the site has been relaunched.
