@@ -2,7 +2,7 @@
 title: "AWS Solutions Architect - Professional"
 description: "Amazon Web Services - Professional level Solutions Architect"
 date: "2019-07-05T09:25:00+01:00"
-tags: ["AWS", "Amazon", "Cloud", "DevOps", "DevSecOps", "Course", "Professional"]
+tags: ["AWS", "Amazon", "Cloud", "DevOps", "DevSecOps", "Courses", "Professional"]
 categories: ["Courses"]
 ---
 

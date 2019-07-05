@@ -2,7 +2,7 @@
 title: "CISSP"
 description: "ISC2 - Certified Information Systems Security Professional"
 date: "2019-07-05T09:30:00+01:00"
-tags: ["ISC2", "CISSP", "Standards", "GRC", "CEH"]
+tags: ["ISC2", "CISSP", "Standards", "GRC", "CEH", "Courses"]
 categories: ["Courses"]
 ---
 

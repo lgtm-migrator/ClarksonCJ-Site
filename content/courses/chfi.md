@@ -2,7 +2,7 @@
 title: "CHFI - Certified Hacking Forensics Investigator"
 description: "EC-Council Certified Hacking Forensics Investigator"
 date: "2019-07-05T09:10:00+01:00"
-tags: ["EC-Council", "Hacker", "Forensics", "Security", "CHFI"]
+tags: ["EC-Council", "Hacker", "Forensics", "Security", "CHFI", "Courses"]
 categories: ["Courses"]
 ---
 

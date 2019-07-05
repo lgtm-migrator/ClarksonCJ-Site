@@ -2,8 +2,8 @@
 date = 2019-07-05T09:32:37+01:00
 title = "Death and Delays"
 slug = "The road is long"
-tags = ["delays", "death", "dad", "goals"]
-categories = ["posts"]
+tags = ["Delays", "Death", "Dad", "Goals"]
+categories = ["Posts"]
 thumbnail = "images/logo.jpg"
 description = "On going dark since the relaunch"
 showDate = "True"

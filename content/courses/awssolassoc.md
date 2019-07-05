@@ -2,7 +2,7 @@
 title: "AWS Solutions Architect - Associate"
 description: "Amazon Web Services - Associate level Solutions Architect"
 date: "2019-07-05T09:20:00+01:00"
-tags: ["AWS", "Amazon", "Cloud", "DevOps", "DevSecOps", "Course"]
+tags: ["AWS", "Amazon", "Cloud", "DevOps", "DevSecOps", "Courses"]
 categories: ["Courses"]
 ---
 

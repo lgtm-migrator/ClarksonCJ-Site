@@ -2,8 +2,8 @@
 title: "The Mambo"
 description: "Birthday Present: a beginner drone from Parrot"
 date: "2019-07-05T09:30:00+01:00"
-tags: ["beginner","FPV","Taranis"]
-categories: ["drones"]
+tags: ["Beginner","FPV", "Drones"]
+categories: ["Drones"]
 showDate: true
 ---
 

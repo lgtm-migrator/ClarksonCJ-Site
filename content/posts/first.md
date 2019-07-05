@@ -2,8 +2,8 @@
 date = 2018-10-01T16:52:09+01:00
 title = "Relaunch"
 slug = "first"
-tags = ["beginning"]
-categories = ["posts"]
+tags = ["Beginning"]
+categories = ["Posts"]
 thumbnail = "images/logo.jpg"
 description = "First post to the new site"
 showDate = "true"

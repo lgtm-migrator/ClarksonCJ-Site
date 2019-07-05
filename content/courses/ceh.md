@@ -2,7 +2,7 @@
 title: "CEH - Certified Ethical Hacker"
 description: "EC-Council Certified Ethical Hacker"
 date: "2019-07-05T09:15:00+01:00"
-tags: ["EC-Council", "Hacker", "Ethical", "Security", "CEH"]
+tags: ["EC-Council", "Hacker", "Security", "CEH", "Courses"]
 categories: ["Courses"]
 ---
 
