@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-slug = "about"
+slug = "personal"
 thumbnail = "images/tn.png"
 description = "Chris Clarkson: Hacker, Developer and Crasher of Drones"
 +++
