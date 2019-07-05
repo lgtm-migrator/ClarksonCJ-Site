@@ -2,6 +2,8 @@
 title: "Reversing: The Secrets of Reverse Engineering"
 description: "Introduction to the art of RE"
 date: "2019-07-05T09:20:00+01:00"
+tags: ["reverse", "engineering", "exploits", "development", "books"]
+categories: ["books"]
 ---
 
 Introductory Text on Reverse Engineering

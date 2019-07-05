@@ -2,6 +2,8 @@
 title: "The IDAPro Book"
 description: "Dive into the IDA Pro Disassembler"
 date: "2019-07-05T09:30:00+01:00"
+tags: ["disassembly", "exploits", "books"]
+categories: ["books"]
 ---
 
 The IDA Pro Book V2.
