@@ -3,8 +3,11 @@
   <ul>
     {{ range .Paginator.Pages.ByDate.Reverse }}
     <li>
-    {{ if isset .Params "showdate" }}<span>{{ .Date.Format "January 2, 2006" }}</span>{{ end }}<a href="{{ .URL }}">{{ .Title }}</a> - {{ .Description }}
+    {{ if isset .Params "showdate" }}<span>{{ .Date.Format "January 2, 2006" }}</span>{{ end }}<a href="{{ .URL }}">{{ .Title }}</a> - {{ .Summary }}
     </li>
+    <br/>
+    <hr/>
+    <br/>
     {{ end }}
   </ul>
   {{ partial "pagination.html" . }}
