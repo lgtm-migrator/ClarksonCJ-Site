@@ -1,5 +1,5 @@
 ---
-title: "CHFI"
+title: "CHFI - Certified Hacking Forensics Investigator"
 description: "EC-Council Certified Hacking Forensics Investigator"
 date: "2019-07-05T09:10:00+01:00"
 ---

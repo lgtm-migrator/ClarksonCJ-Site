@@ -1,5 +1,5 @@
 ---
-title: "CEH"
+title: "CEH - Certified Ethical Hacker"
 description: "EC-Council Certified Ethical Hacker"
 date: "2019-07-05T09:15:00+01:00"
 ---
