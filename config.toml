@@ -19,7 +19,7 @@ pygmentsUseClasses = true # new add
     avatarurl = "images/chrisclarkson.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = true
+    hideCredits = false
     hideCopyright = false
 
     # Custom CSS
