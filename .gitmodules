@@ -2,6 +2,3 @@
 	path = public
 	url = git@github.com:ClarksonCJ/clarksoncj.github.io.git
 	branch = master
-[submodule "themes/coder-portfolio"]
-	path = themes/coder-portfolio
-	url = https://github.com/clarksoncj/hugo-coder-portfolio
