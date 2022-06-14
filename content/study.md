@@ -11,15 +11,15 @@ The home of my collected learning; past, present and future. Here I document the
 
 ### Courses (upcoming and in Progress)
 
-* [Penetration Testing With Kali](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
-    * The precursor course to the [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) examination. Its very difficult to put into words how much I have learned from this course so far, and there is always more to learn **#TryHarder**.
-* [Certified Cloud Security Professional] (https://www.isc2.org/Certifications/CCSP) (October 2019)
+* [Certified Kubernetes Adminstrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) - Time to learn how to use this tech properly before
+I can secure it.
 
 #### [Completed](/courses)
 
 ### Sites
 
 * [Pentester Academy](https://www.pentesteracademy.com) - Always striving to improve my skills, I am using the content here to supplement my other training. My subscription  also gives me access to the awesome labs at [attackdefense.com](https://public.attackdefense.com)
+* [TryHackMe](https://tryhackme.com/) - Tutorials and materials for learning to hack, good for the basics and keeping skills sharp.
 * [Azeria Labs](https://azeria-labs.com/) - Taking the plunge into (Dis)Assembly, Exploit Development and Reverse Engineering. Ongoing interests in RE on ARM devices mainly because they are EVERYWHERE, Mobile Phones, Tablets, IoT devices etc. In my opinion the future of Cyber Security will be in these devices; both as things to defend, and also to deploy in an offensive capacity.
 
 ---------------------------

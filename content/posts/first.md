@@ -1,5 +1,5 @@
-+++ 
-date = 2018-10-01T16:52:09+01:00
++++
+date = 2022-06-14T20:00:00+01:00
 title = "Relaunch"
 slug = "first"
 tags = ["Beginning"]
@@ -15,9 +15,7 @@ Look out for posts on:
 
 * Hacking
 * The Cloud
-* Reverse Engineering
 * Coding
-* Hardware
-* Drones
+* Security Tutorials
+* Random musings
 
-There will also be the odd post about Climbing, Motorcycles and *other goings on* too
